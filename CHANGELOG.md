@@ -1,155 +1,84 @@
 # Change Log
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
 ## [0.4.18](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.17...@ivuorinen/browserslist-config@0.4.18) (2025-06-15)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## [0.4.17](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.16...@ivuorinen/browserslist-config@0.4.17) (2025-06-01)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
-
-
-
-
 
 ## [0.4.16](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.15...@ivuorinen/browserslist-config@0.4.16) (2025-05-15)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## [0.4.15](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.14...@ivuorinen/browserslist-config@0.4.15) (2025-05-01)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
-
-
-
-
 
 ## [0.4.14](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.13...@ivuorinen/browserslist-config@0.4.14) (2025-04-15)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## [0.4.13](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.12...@ivuorinen/browserslist-config@0.4.13) (2025-04-01)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
-
-
-
-
 
 ## [0.4.12](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.11...@ivuorinen/browserslist-config@0.4.12) (2025-03-17)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## [0.4.11](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.10...@ivuorinen/browserslist-config@0.4.11) (2025-03-01)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
-
-
-
-
 
 ## 0.4.10 (2025-02-23)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## 0.4.9 (2025-02-23)
-
 
 ### Bug Fixes
 
-* **deps:** update globals to 16.0.0 ([#342](https://github.com/ivuorinen/base-configs/issues/342)) ([04b333b](https://github.com/ivuorinen/base-configs/commit/04b333b445b6beb4344d2f9102bb5d3dc72ae26a))
-
-
-
-
+- **deps:** update globals to 16.0.0 ([#342](https://github.com/ivuorinen/base-configs/issues/342)) ([04b333b](https://github.com/ivuorinen/base-configs/commit/04b333b445b6beb4344d2f9102bb5d3dc72ae26a))
 
 ## [0.4.8](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.7...@ivuorinen/browserslist-config@0.4.8) (2025-02-16)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## [0.4.7](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.6...@ivuorinen/browserslist-config@0.4.7) (2025-02-01)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## 0.4.6 (2025-01-17)
-
 
 ### Bug Fixes
 
-* **deps:** update eslint-config-prettier to 10.0.1 ([#324](https://github.com/ivuorinen/base-configs/issues/324)) ([8a0d38e](https://github.com/ivuorinen/base-configs/commit/8a0d38e173df40b771d42b694a24145559200506))
-
-
-
-
+- **deps:** update eslint-config-prettier to 10.0.1 ([#324](https://github.com/ivuorinen/base-configs/issues/324)) ([8a0d38e](https://github.com/ivuorinen/base-configs/commit/8a0d38e173df40b771d42b694a24145559200506))
 
 ## [0.4.5](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.4...@ivuorinen/browserslist-config@0.4.5) (2025-01-15)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## [0.4.4](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.3...@ivuorinen/browserslist-config@0.4.4) (2025-01-01)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
-
-
-
-
 
 ## [0.4.3](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.2...@ivuorinen/browserslist-config@0.4.3) (2024-12-16)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-
-
-
-
 ## [0.4.2](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.4.1...@ivuorinen/browserslist-config@0.4.2) (2024-12-09)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
-
-
-
-
 
 ## 0.4.1 (2024-11-25)
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-# [0.4.0](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.3.4...@ivuorinen/browserslist-config@0.4.0) (2024-11-24)
+## [0.4.0](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.3.4...@ivuorinen/browserslist-config@0.4.0) (2024-11-24)
 
 ### Features
 
@@ -177,7 +106,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-# [0.3.0](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.2.10...@ivuorinen/browserslist-config@0.3.0) (2024-08-21)
+## [0.3.0](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.2.10...@ivuorinen/browserslist-config@0.3.0) (2024-08-21)
 
 - feat!: module & commonjs in browserslist ([93ea840](https://github.com/ivuorinen/base-configs/commit/93ea8404064e62c720460b2d808fc9d39a00ec31))
 
@@ -239,7 +168,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @ivuorinen/browserslist-config
 
-# [0.2.0](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.1.12...@ivuorinen/browserslist-config@0.2.0) (2023-10-25)
+## [0.2.0](https://github.com/ivuorinen/base-configs/compare/@ivuorinen/browserslist-config@0.1.12...@ivuorinen/browserslist-config@0.2.0) (2023-10-25)
 
 ### Features
 
