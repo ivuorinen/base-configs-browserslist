@@ -28,6 +28,10 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
           scope: '@ivuorinen'
 
+      - name: Install and enable corepack
+        shell: sh
+        run: npm install -g corepack@latest --force && corepack enable
+
       - name: Configure git
         run: |
           git config user.name "fiximus"
