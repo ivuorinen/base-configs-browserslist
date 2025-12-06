@@ -1,3 +1,40 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 1.0.0 (2025-12-06)
+
+
+### Bug Fixes
+
+* **github-action:** update github/codeql-action (v3.29.0 → v3.29.2) ([#2](https://github.com/ivuorinen/base-configs-browserslist/issues/2)) ([39f8dcd](https://github.com/ivuorinen/base-configs-browserslist/commit/39f8dcdf6800b6876100e1fe36c226041f582dae))
+* **github-action:** update github/codeql-action (v3.29.2 → v3.29.3) ([#5](https://github.com/ivuorinen/base-configs-browserslist/issues/5)) ([56f1b27](https://github.com/ivuorinen/base-configs-browserslist/commit/56f1b2717e214e8d0785b405e2c4815420460697))
+* **github-action:** update github/codeql-action (v3.29.3 → v3.29.4) ([#7](https://github.com/ivuorinen/base-configs-browserslist/issues/7)) ([75d72c3](https://github.com/ivuorinen/base-configs-browserslist/commit/75d72c3809283aa4eed262bfeca4e6e6c54a4e45))
+* **github-action:** update github/codeql-action (v3.29.4 → v3.29.5) ([#8](https://github.com/ivuorinen/base-configs-browserslist/issues/8)) ([f47baed](https://github.com/ivuorinen/base-configs-browserslist/commit/f47baeda55445d29886790d5da1f29ffb965cb93))
+* **github-action:** update github/codeql-action (v3.29.5 → v3.29.8) ([#11](https://github.com/ivuorinen/base-configs-browserslist/issues/11)) ([28ac4ca](https://github.com/ivuorinen/base-configs-browserslist/commit/28ac4caae84a7c27a478a432eca021f94968f343))
+* **github-action:** update github/codeql-action (v3.29.8 → v3.29.9) ([#14](https://github.com/ivuorinen/base-configs-browserslist/issues/14)) ([6ce56fe](https://github.com/ivuorinen/base-configs-browserslist/commit/6ce56fee1b1132158d5cdfc03b9591aa968dcccd))
+* **github-action:** update github/codeql-action (v3.29.9 → v3.29.10) ([#15](https://github.com/ivuorinen/base-configs-browserslist/issues/15)) ([e7ac97c](https://github.com/ivuorinen/base-configs-browserslist/commit/e7ac97ceedd1a73c616995f048f4c48e8b90a02c))
+* **github-action:** update ivuorinen/actions (25.7.14 → 25.7.21) ([#6](https://github.com/ivuorinen/base-configs-browserslist/issues/6)) ([9c2c6af](https://github.com/ivuorinen/base-configs-browserslist/commit/9c2c6afdac5960f2faaef58518540ba9ab4a52e9))
+* **github-action:** update ivuorinen/actions (25.7.21 → 25.7.28) ([#9](https://github.com/ivuorinen/base-configs-browserslist/issues/9)) ([fa804a8](https://github.com/ivuorinen/base-configs-browserslist/commit/fa804a8542911042fd32a0e694e3ff50bd5ad5b7))
+* **github-action:** update ivuorinen/actions (25.7.7 → 25.7.14) ([#4](https://github.com/ivuorinen/base-configs-browserslist/issues/4)) ([cd3c9d7](https://github.com/ivuorinen/base-configs-browserslist/commit/cd3c9d7d7ecfdc88ebcaf62755b10ad736dc585b))
+* **github-action:** update ivuorinen/actions (25.8.11 → 25.8.18) ([#16](https://github.com/ivuorinen/base-configs-browserslist/issues/16)) ([8fea8a3](https://github.com/ivuorinen/base-configs-browserslist/commit/8fea8a336ac6c82f2adf41d3f8160794f2843cb4))
+* **github-action:** update ivuorinen/actions (25.8.4 → 25.8.11) ([#13](https://github.com/ivuorinen/base-configs-browserslist/issues/13)) ([168c475](https://github.com/ivuorinen/base-configs-browserslist/commit/168c47522bb181a49b62f30288c1daf0184cfa40))
+* **github-release:** update adrienverge/yamllint (v1.37.0 → v1.37.1) ([#17](https://github.com/ivuorinen/base-configs-browserslist/issues/17)) ([c1ed668](https://github.com/ivuorinen/base-configs-browserslist/commit/c1ed66848e1a98f590dac20d2a3e76e59920635c))
+* **github-release:** update bridgecrewio/checkov (3.2.400 → 3.2.464) ([#18](https://github.com/ivuorinen/base-configs-browserslist/issues/18)) ([547a0bd](https://github.com/ivuorinen/base-configs-browserslist/commit/547a0bd73679362b38d5ce1994063d2676b4cc8d))
+* **github-release:** update renovatebot/pre-commit-hooks (41.82.9 → 41.82.10) ([#27](https://github.com/ivuorinen/base-configs-browserslist/issues/27)) ([1bbf0c5](https://github.com/ivuorinen/base-configs-browserslist/commit/1bbf0c5f1158d2e7597c4e40cd1ba046b3e2b62b))
+
+
+### Features
+
+* **ci:** new release flow, linting ([da94bad](https://github.com/ivuorinen/base-configs-browserslist/commit/da94bad5f964409728b5f66393783ee951674e3c))
+* **github-action:** update ivuorinen/actions (25.6.17 → 25.7.7) ([#3](https://github.com/ivuorinen/base-configs-browserslist/issues/3)) ([65c2674](https://github.com/ivuorinen/base-configs-browserslist/commit/65c267459bf6cd6fd153b15f1ac3e4bd258741a8))
+* **github-action:** update ivuorinen/actions (25.7.28 → 25.8.4) ([#10](https://github.com/ivuorinen/base-configs-browserslist/issues/10)) ([08f9c3e](https://github.com/ivuorinen/base-configs-browserslist/commit/08f9c3e2b3d0d73423fed3c5541a03c7b3544859))
+* **github-release:** update igorshubovych/markdownlint-cli (v0.44.0 → v0.45.0) ([#19](https://github.com/ivuorinen/base-configs-browserslist/issues/19)) ([933a8d8](https://github.com/ivuorinen/base-configs-browserslist/commit/933a8d88c185209a2782a03c539759c264da1759))
+* **github-release:** update koalaman/shellcheck-precommit (v0.10.0 → v0.11.0) ([#20](https://github.com/ivuorinen/base-configs-browserslist/issues/20)) ([30f4641](https://github.com/ivuorinen/base-configs-browserslist/commit/30f4641a8e1f29833c5de6a9311c1e76131c9cdf))
+* initial import from base-configs ([5404b12](https://github.com/ivuorinen/base-configs-browserslist/commit/5404b12eb7f78faa6c50a4fd62a20b79d6fb6397))
+* release pipeline, packages, yarn upgrade ([e3ff312](https://github.com/ivuorinen/base-configs-browserslist/commit/e3ff31219684ffe96ceb839b20abec965bb66710))
+
 # Change Log
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
