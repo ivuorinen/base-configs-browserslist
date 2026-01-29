@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/ivuorinen/base-configs-browserslist/compare/v1.0.0...v1.0.1) (2026-01-29)
+
+
+### Bug Fixes
+
+* **ci:** modify permissions in PR Lint workflow ([49e6213](https://github.com/ivuorinen/base-configs-browserslist/commit/49e6213862f33ab1320d5da89fbe1eba6d8676f9))
+
 # 1.0.0 (2025-12-06)
 
 
