@@ -1,6 +1,6 @@
 {
   "name": "@ivuorinen/browserslist-config",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "ivuorinen's shareable configuration for Browserslist.",
   "type": "module",
   "author": {
