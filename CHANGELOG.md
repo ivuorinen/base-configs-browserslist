@@ -3,6 +3,8 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.24](https://github.com/ivuorinen/base-configs-browserslist/compare/v1.0.23...v1.0.24) (2026-04-01)
+
 ## [1.0.23](https://github.com/ivuorinen/base-configs-browserslist/compare/v1.0.22...v1.0.23) (2026-03-29)
 
 ## [1.0.22](https://github.com/ivuorinen/base-configs-browserslist/compare/v1.0.21...v1.0.22) (2026-03-27)
