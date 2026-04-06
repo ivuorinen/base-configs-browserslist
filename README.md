@@ -53,7 +53,7 @@ See [CHANGELOG][changelog-link] for a human-readable history of changes.
 
 Distributed under the MIT License. See [LICENSE][license-link] for more information.
 
-[changelog-link]: ./CHANGELOG.md
+[changelog-link]: https://github.com/ivuorinen/base-configs-browserslist/releases
 [browserslist-docs-link]: https://github.com/browserslist/browserslist
 [browserslist-link]: https://github.com/browserslist/browserslist
 [contributing-link]: https://github.com/ivuorinen/.github/blob/main/CONTRIBUTING.md
