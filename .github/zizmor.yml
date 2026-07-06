@@ -1,0 +1,16 @@
+---
+# zizmor configuration: https://docs.zizmor.sh/configuration/
+rules:
+  adhoc-packages:
+    # corepack must be bootstrapped globally; no lockfile applies
+    ignore:
+      - publish.yml
+      - update-browserslist.yaml
+  artipacked:
+    # browserslist-update-action pushes from the workspace and needs persisted credentials
+    ignore:
+      - update-browserslist.yaml
+  use-trusted-publishing:
+    # npm trusted publishing requires registry-side setup; tracked separately
+    ignore:
+      - publish.yml
