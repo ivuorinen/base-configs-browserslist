@@ -47,7 +47,7 @@
     "browserslist": "^4.28.2"
   },
   "devDependencies": {
-    "@ivuorinen/semantic-release-config": "^1.2.0"
+    "@ivuorinen/semantic-release-config": "^2.0.0"
   },
   "packageManager": "yarn@4.17.1",
   "resolutions": {
