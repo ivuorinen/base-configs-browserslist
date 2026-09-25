@@ -31,11 +31,17 @@ npm install @ivuorinen/browserslist-config --save-dev
 yarn add @ivuorinen/browserslist-config --dev
 ```
 
-After installing it, a _`.browserslistrc`_ file will be created automatically in the project's root folder with the following configuration:
+Create a _`.browserslistrc`_ in the project's root folder with the following configuration:
 
-```json
+```text
 extends @ivuorinen/browserslist-config
 ```
+
+With npm, a `postinstall` script writes exactly this file when the project has no Browserslist config yet (npm 11
+warns that the script is not covered by `allowScripts`). Yarn 4 does not run dependency install scripts, so no file is
+written. pnpm refuses unapproved install scripts and fails the install until you allow this package with
+`pnpm approve-builds`. In both cases create the file by hand as above — without it tools silently fall back to
+Browserslist's `defaults`.
 
 ## Documentations
 
@@ -43,7 +49,7 @@ Read the [Browserslist docs][browserslist-docs-link] for more information.
 
 ## Contributing
 
-If you are interested in helping contribute, please take a look at our [contribution guidelines][contributing-link] and open an [issue][issue-link] or [pull request][pull-request-link].
+If you are interested in helping contribute, please open an [issue][issue-link] or [pull request][pull-request-link].
 
 ## Changelog
 
@@ -56,10 +62,9 @@ Distributed under the MIT License. See [LICENSE][license-link] for more informat
 [changelog-link]: https://github.com/ivuorinen/base-configs-browserslist/releases
 [browserslist-docs-link]: https://github.com/browserslist/browserslist
 [browserslist-link]: https://github.com/browserslist/browserslist
-[contributing-link]: https://github.com/ivuorinen/.github/blob/main/CONTRIBUTING.md
 [issue-link]: https://github.com/ivuorinen/base-configs-browserslist/issues
 [license-badge]: https://img.shields.io/github/license/ivuorinen/base-configs-browserslist?style=flat-square&labelColor=292a44&color=663399
-[license-link]: ./LICENSE
+[license-link]: ./LICENSE.md
 [npm-badge]: https://img.shields.io/npm/v/@ivuorinen/browserslist-config?style=flat-square&labelColor=292a44&color=663399
 [npm-link]: https://www.npmjs.com/package/@ivuorinen/browserslist-config
 [pull-request-link]: https://github.com/ivuorinen/base-configs-browserslist/pulls
