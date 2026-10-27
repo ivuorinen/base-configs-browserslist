@@ -17,7 +17,7 @@
 
 > 'defaults and fully supports es6-module', 'maintained node versions'
 
-See the up to date list of supported browsers in the
+See the up-to-date list of supported browsers in the
 [Browserslist docs](https://browsersl.ist/#q=defaults+and+fully+supports+es6-module%2C+maintained+node+versions).
 
 ## Installation
