@@ -26,9 +26,10 @@ const filePath = path.join(cwd, '.browserslistrc')
 const fileConfigObject = 'extends @ivuorinen/browserslist-config'
 
 // 'wx' makes "does it exist?" and "write it" one atomic step, so a concurrent
-// install cannot create the file in between and have it overwritten.
+// install cannot create the file in between and have it overwritten. The
+// trailing newline keeps the file passing the consumer's EditorConfig check.
 try {
-  fs.writeFileSync(filePath, fileConfigObject, { flag: 'wx' })
+  fs.writeFileSync(filePath, `${fileConfigObject}\n`, { flag: 'wx' })
 } catch (error) {
   if (error.code !== 'EEXIST') {
     console.log(`browserslist-config: could not write ${filePath} (${error.code || error.message}).`)

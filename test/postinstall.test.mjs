@@ -12,7 +12,9 @@ import { fileURLToPath } from 'node:url'
 // mocking fs would test nothing that matters.
 const SCRIPT = fileURLToPath(new URL('../scripts/postinstall.cjs', import.meta.url))
 const CONFIG_NAME = '.browserslistrc'
-const EXPECTED = 'extends @ivuorinen/browserslist-config'
+// Ends with a newline: the file lands in the consumer's repo, where
+// EditorConfig (insert_final_newline) and formatters expect one.
+const EXPECTED = 'extends @ivuorinen/browserslist-config\n'
 
 const tempRoot = () => fs.mkdtempSync(path.join(os.tmpdir(), 'browserslist-config-'))
 
