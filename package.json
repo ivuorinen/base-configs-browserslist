@@ -44,7 +44,7 @@
     "test": "node --test"
   },
   "dependencies": {
-    "@ivuorinen/config-checker": "^2.1.2",
+    "@ivuorinen/config-checker": "^2.7.0",
     "browserslist": "^4.28.2"
   },
   "devDependencies": {
